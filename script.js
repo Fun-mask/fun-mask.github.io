@@ -14,6 +14,5 @@ const isPrime = (num) => {
 }
 
 document.write(isPrime(1)); // false
-console.log(isPrime(1)); 	// false
 document.write(isPrime(7));  // true
 document.write(isPrime(10)); // false
