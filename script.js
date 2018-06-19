@@ -13,6 +13,8 @@ const isPrime = (num) => {
   }
 }
 
+	document.write(isPrime(1));
+
 isPrime(1);     // false
 isPrime(7);     // true
 isPrime(10);    // false
